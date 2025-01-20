@@ -13,3 +13,4 @@ cheaters.
 * Write the methods for generating+decoding this unique code that will be printed on the docket by forking
 the following Pen: https://codepen.io/resonatetest/pen/qwGwqj
 
+thanks
